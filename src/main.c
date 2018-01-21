@@ -5,12 +5,12 @@
  * vous pouvez faire ce que vous voulez de ce truc. Si on se rencontre un jour et
  * que vous pensez que ce truc vaut le coup, vous pouvez me payer une bière en
  * retour.
-   __________           .___              ____.
-   \______   \ ____   __| _/             |    |
+   	__________           .___             ____.
+   	\______   \ ____   __| _/            |    |
 	|       _// __ \ / __ |   ______     |    |
 	|    |   \  ___// /_/ |  /_____/ /\__|    |
 	|____|_  /\___  >____ |          \________|
-		   \/     \/     \/                    
+	       \/     \/     \/                    
  * ----------------------------------------------------------------------------
 
 #include <psp2/kernel/processmgr.h>
