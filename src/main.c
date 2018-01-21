@@ -1,3 +1,18 @@
+
+* ----------------------------------------------------------------------------
+ * "LICENCE BEERWARE" (Révision 42):
+ * Red-J a créé ce fichier. Tant que vous conservez cet avertissement,
+ * vous pouvez faire ce que vous voulez de ce truc. Si on se rencontre un jour et
+ * que vous pensez que ce truc vaut le coup, vous pouvez me payer une bière en
+ * retour.
+   __________           .___              ____.
+   \______   \ ____   __| _/             |    |
+	|       _// __ \ / __ |   ______     |    |
+	|    |   \  ___// /_/ |  /_____/ /\__|    |
+	|____|_  /\___  >____ |          \________|
+		   \/     \/     \/                    
+ * ----------------------------------------------------------------------------
+
 #include <psp2/kernel/processmgr.h>
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
