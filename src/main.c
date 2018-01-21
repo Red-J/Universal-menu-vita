@@ -1,4 +1,4 @@
-
+/*
 * ----------------------------------------------------------------------------
  * "LICENCE BEERWARE" (Révision 42):
  * Red-J a créé ce fichier. Tant que vous conservez cet avertissement,
@@ -12,6 +12,7 @@
 	|____|_  /\___  >____ |          \________|
 	       \/     \/     \/                    
  * ----------------------------------------------------------------------------
+*/
 
 #include <psp2/kernel/processmgr.h>
 #include <SDL2/SDL.h>
