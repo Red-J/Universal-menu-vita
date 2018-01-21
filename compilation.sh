@@ -12,9 +12,7 @@ function delay()
 echo 
 echo  "    Compilation en cours..."
 echo =============================
-#
-# Description : print out executing progress
-# 
+
 CURRENT_PROGRESS=0
 function progress()
 {
