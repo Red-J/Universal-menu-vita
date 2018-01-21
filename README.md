@@ -15,7 +15,7 @@ To compile you can open your msys terminal, go to the universal menu folder you 
 
 Thanks to Chronoss, BenMitnick, Cimmerian, Nop90 and all members who helped people to code fun things
 
-Sotfware licensed on BEERWARE LICENCE
+Software licensed on BEERWARE LICENCE
 
 PS:To use this sample just put libSDL2_Image.a to your sdk (C:\msys64\usr\local\vitasdk\arm-vita-eabi\lib) and compile the sample
 I'm beginner, if you find any bug or optimisation ask me ;)
