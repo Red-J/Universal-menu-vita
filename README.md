@@ -9,7 +9,7 @@
 		   
 A universal menu for Vita made with SDL2 and Vita sdk open source, you can modify this sample as you want.
  
-You can modify this things: Texts positions, Pictures positions, Pictures, GFX sounds,Texts, Background musics, Intro picture, Background picture and Functions.
+You can modify this things: Texts positions, Pictures positions, Pictures, TTF typo, GFX sounds,Texts, Background musics, Intro picture, Background picture and Functions.
 
 To compile you can open your msys terminal, go to the universal menu folder you have created and launch the compilation.sh script  and grab your vpk in build folder ;)
 
